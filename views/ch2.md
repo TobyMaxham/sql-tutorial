@@ -43,7 +43,10 @@ BEGIN
 			SET @Status = 'UPDATE'
 		END
 
-		INSERT INTO [dbo].[OrderDetailsChanges] VALUES (@OrderID, @ProductID, @Status, CURRENT_TIMESTAMP, CURRENT_USER, SYSTEM_USER)
+		INSERT INTO [dbo].[OrderDetailsChanges]#
+		VALUES (@OrderID, @ProductID, @Status, CURRENT_TIMESTAMP, CURRENT_USER, SYSTEM_USER)
+
+
 		FETCH NEXT FROM ChangeCursor INTO @OrderID, @ProductID
 	END
 	CLOSE ChangeCursor
