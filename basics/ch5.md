@@ -18,6 +18,9 @@ This type of Join you wont use for practical application.
 
 
 ##EQUI JOIN
+Like cross join but with where condition where field of table A has to be identical with a field of table B.
+
+##NATURAL JOIN
 To solve the problem of cross joins you can use a **WHERE** condition to join a field of the first table on a field of the second table.
 Example:
 ```sql
@@ -57,5 +60,3 @@ In the last query we only get the customers witch already made an order. To get 
 SELECT [c].[CustomerID], [c].[CompanyName], [o].[OrderID]
 FROM [Customers] [c] LEFT JOIN [Orders] [o] on [c].[CustomerID] = [o].[CustomerID]
 ```
-
-

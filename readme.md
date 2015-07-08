@@ -7,6 +7,9 @@ I use the **Northwind** example Database. You can find an installation SQL-file 
 ## Titles
 
 * Part I: ["The Basics"](basics/readme.md) (in production)
+* Part II: ["Views"](views/readme.md) (in production)
+* Part III: ["Functions"](functions/readme.md) (in production)
+* Part III: ["Procedures"](procedures/readme.md) (in production)
 
 ## License & Copyright
 
