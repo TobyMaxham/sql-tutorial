@@ -1,4 +1,4 @@
-# PHP Tutorial: The Basics
+# SQL Tutorial: The Basics
 # Chapter 2: CRUD
 
 
