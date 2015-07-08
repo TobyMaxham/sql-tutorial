@@ -1,2 +1,2 @@
 # SQL Tutorial: The Basics
-# Chapter 1: General
+# Chapter 5: Joins

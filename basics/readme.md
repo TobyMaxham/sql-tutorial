@@ -9,7 +9,9 @@
 [Table of Contents](toc.md)
 
 * [Foreword](foreword.md) (by [Tobias Maxham](http://maxham.de))
-* [Chapter 1: Selects](ch1.md)
-* [Chapter 2: CRUD](ch2.md)
-* [Chapter 3: Updates](ch3.md)
-* [Chapter 4: Deletes](ch4.md)
+* [Chapter 1: General](ch1.md)
+* [Chapter 2: Tables](ch2.md)
+* [Chapter 3: CRUD](ch3.md)
+* [Chapter 4: Selects](ch4.md)
+* [Chapter 5: Joins](ch5.md)
+
