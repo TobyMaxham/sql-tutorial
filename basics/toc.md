@@ -8,6 +8,3 @@
 * Chapter 3: CRUD
 * Chapter 4: Selects
 * Chapter 5: Joins
-
-
-[Back](../)
