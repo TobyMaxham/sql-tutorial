@@ -13,6 +13,7 @@ Before you begin this tutorial please imoprt the Northwind Database example into
 * Part III: ["Functions"](functions/readme.md) (in production)
 * Part IV: ["Procedures"](procedures/readme.md) (in production)
 * Part V: ["Information Schema"](schema/readme.md) (in production)
+* Part VI: ["Special"](special/readme.md) (in production)
 
 ## License & Copyright
 
