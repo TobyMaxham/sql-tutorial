@@ -1,5 +1,5 @@
 # SQL Tutorial: Functions
-# Chapter 1: Date
+# Chapter 1: Date Functions
 
 ```sql
 -- The day after tomorrow

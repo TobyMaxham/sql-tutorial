@@ -1,4 +1,4 @@
-# SQL-Tutorial: Procedures
+# SQL-Tutorial: Information Schema
 
 -----
 
@@ -9,5 +9,5 @@
 [Table of Contents](toc.md)
 
 * [Foreword](foreword.md) (by [Tobias Maxham](http://maxham.de))
-* [Chapter 1: Northwind Examples I](ch1.md)
-* [Chapter 2: Northwind Examples II](ch2.md)
+* [Chapter 1: General Informations](ch1.md)
+* [Chapter 2: Some useage examples](ch2.md)

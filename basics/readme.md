@@ -14,4 +14,5 @@
 * [Chapter 3: CRUD](ch3.md)
 * [Chapter 4: Selects](ch4.md)
 * [Chapter 5: Joins](ch5.md)
+* [Chapter 6: Irrelevant & Fun](ch6.md)
 
