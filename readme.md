@@ -8,7 +8,7 @@ Before you begin this tutorial please imoprt the Northwind Database example into
 
 ## Titles
 
-* Part I: ["The Basics"](basics/readme.md) (in production)
+* Part I: ["The Basics"](basics/readme.md)
 * Part II: ["Views"](views/readme.md) (in production)
 * Part III: ["Functions"](functions/readme.md) (in production)
 * Part IV: ["Procedures"](procedures/readme.md) (in production)
